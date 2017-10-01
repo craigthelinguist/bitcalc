@@ -1,0 +1,6 @@
+[package]
+name = "bitshift"
+version = "0.1.0"
+authors = ["AJ <aaroncraig@protonmail.ch>"]
+
+[dependencies]
