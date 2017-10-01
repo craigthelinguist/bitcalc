@@ -1,0 +1,2 @@
+# bitcalc
+Bitwise operation calculator
